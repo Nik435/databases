@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# RelBenchDatbase
+avito.sqlite
+clinicalTrial.sqlite
+hmShop.sqlite
+stack.sqlite
+formula1.sqlite

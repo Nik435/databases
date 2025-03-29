@@ -1,0 +1,7 @@
+{
+    "clinicalTrial.sqlite": ["facilities_studies", "designs", "drop_withdrawals", "sponsors_studies", "outcomes", "reported_event_totals", "conditions_studies", "eligibilities", "conditions", "facilities", "studies", "sponsors", "interventions", "interventions_studies", "outcome_analyses"],
+    "formula1.sqlite": ["standings", "races", "circuits", "constructor_results", "drivers", "constructor_standings", "qualifying", "constructors", "results"],
+    "hmShop.sqlite": ["article", "customer", "transactions"],
+    "avito.sqlite": ["UserInfo", "VisitStream", "AdsInfo", "SearchInfo", "PhoneRequestsStream", "Location", "SearchStream", "Category"],
+    "stack.sqlite": ["users", "posts", "postLinks", "votes", "badges", "postHistory", "comments"]
+}

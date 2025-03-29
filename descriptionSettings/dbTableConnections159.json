@@ -1,0 +1,15 @@
+{
+    "education.sqlite": ["students", "sqlite_sequence", "teachers", "courses", "enrollments", "classrooms", "exams", "exam_results", "departments", "attendance", "scholarships", "library_books", "book_loans", "events", "clubs"],
+    "sports.sqlite": ["athletes", "sqlite_sequence", "teams", "coaches", "matches", "scores", "tournaments", "rankings", "sponsors", "athlete_sponsors", "venues", "injuries", "contracts", "media_coverage"],
+    "ecommerce.sqlite" : ["customers", "sqlite_sequence", "orders", "products", "order_items", "employees", "payments", "suppliers", "departments", "shipping", "inventory", "warehouses", "reviews", "refunds", "promotions", "cart, sessions", "logs"],
+    "clinicalTrial.sqlite": ["facilities_studies", "designs", "drop_withdrawals", "sponsors_studies", "outcomes", "reported_event_totals", "conditions_studies", "eligibilities", "conditions", "facilities", "studies", "sponsors", "interventions", "interventions_studies", "outcome_analyses"],
+    "formula1.sqlite": ["standings", "races", "circuits", "constructor_results", "drivers", "constructor_standings", "qualifying", "constructors", "results"],
+    "hmShop.sqlite": ["article", "customer", "transactions"],
+    "event.sqlite": ["event_attendees", "event_interest", "user_friends", "users", "events", "people"],
+    "avito.sqlite": ["UserInfo", "VisitStream", "AdsInfo", "SearchInfo", "PhoneRequestsStream", "Location", "SearchStream", "Category"],
+    "stack.sqlite": ["users", "posts", "postLinks", "votes", "badges", "postHistory", "comments"],
+    "agriculture.sqlite": ["farms", "sqlite_sequence", "farmers", "crops", "livestock", "equipment", "sales", "suppliers", "inventory", "weather_data", "pest_control", "irrigation", "government_subsidies", "farm_events", "farm_workers"],
+    "bundesliga.sqlite": ["teams", "sqlite_sequence", "players", "matches", "player_stats", "transfers", "league_table", "coaches", "referees", "stadiums", "injuries", "sponsors", "fan_clubs"],
+    "bikeShop.sqlite": ["customers", "sqlite_sequence", "bikes", "orders", "order_details", "employees", "suppliers", "inventory", "services", "appointments", "reviews", "accessories", "repair_jobs", "maintenance_plans", "bike_rentals", "loyalty_programs"],
+    "forestry.sqlite": ["forests", "sqlite_sequence", "foresters", "tree_species", "logging_operations", "equipment", "wood_sales", "suppliers", "inventory", "weather_data", "pest_control", "reforestation", "government_subsidies", "forest_events", "forest_workers", "wildlife", "conservation_projects", "fire_prevention", "tourism_activities", "soil_quality"]
+}
